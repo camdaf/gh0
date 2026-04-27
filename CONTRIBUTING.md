@@ -501,7 +501,7 @@ Não hesite em pedir ajuda! Todos estamos aprendendo.
                                                                 ↓
                                                             10. PR
                                                                 ↓
-11. Merge ← Aprovação ← Revisão ← 12. Responder Feedback
+11. Merge ← Aprovação ← Revisão ← 12. Responder Feedback.
 ```
 
 ---
